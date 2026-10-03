@@ -1,0 +1,72 @@
+{
+ "version": 1,
+ "srcHash": "c3d7e4f05b1128c2",
+ "textures": [
+  "stone",
+  "dungeon",
+  "planks",
+  "shingles",
+  "flag",
+  "grass",
+  "glowAtlas"
+ ],
+ "models": "baked/models.glb",
+ "keys": [
+  "floor_wood_4x4",
+  "wall_stone_straight|F",
+  "wall_stone_door|F",
+  "wall_stone_window|F",
+  "stairs_wood_straight",
+  "roof_clay_slope",
+  "roof_clay_peak",
+  "roof_clay_cap",
+  "pillar_stone_round|F",
+  "gate_iron_double|F",
+  "wall_estate_stone|F",
+  "wall_estate_spiked|F",
+  "pier_estate_lantern|F",
+  "wall_dungeon_straight",
+  "floor_dungeon_4x4",
+  "decor_forge",
+  "decor_fireplace",
+  "decor_potted_plant",
+  "decor_table",
+  "decor_chair",
+  "decor_barrel",
+  "decor_crate",
+  "decor_rug",
+  "decor_bookshelf",
+  "decor_bed",
+  "light_wall_sconce",
+  "decor_banner_guild",
+  "decor_banner_blue",
+  "light_chandelier",
+  "decor_banner_gilded",
+  "decor_tree_oak",
+  "decor_tree_pine",
+  "decor_bush",
+  "decor_flower_bed",
+  "decor_fence",
+  "light_lantern",
+  "light_lamp_post",
+  "decor_tree_blossom"
+ ],
+ "lods": {
+  "models/props/decor_tree_blossom_grand.glb": {
+   "file": "baked/lod/decor_tree_blossom_grand_lod1.glb",
+   "distance": 26
+  },
+  "models/props/decor_tree_cypress.glb": {
+   "file": "baked/lod/decor_tree_cypress_lod1.glb",
+   "distance": 26
+  },
+  "models/props/decor_tree_dead.glb": {
+   "file": "baked/lod/decor_tree_dead_lod1.glb",
+   "distance": 26
+  },
+  "models/props/decor_tree_oak_grand.glb": {
+   "file": "baked/lod/decor_tree_oak_grand_lod1.glb",
+   "distance": 26
+  }
+ }
+}
